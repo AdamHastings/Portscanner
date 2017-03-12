@@ -1,6 +1,10 @@
 #!/usr/bin/python
-# Use this for reference
-# https://github.com/interference-security/Multiport/blob/master/multiport.py
+
+#############################################################
+# See usage here: https://github.com/AdamHastings/Portscanner
+#############################################################
+
+
 import logging
 import sys
 import socket
@@ -155,7 +159,7 @@ def openHTML():
 	<head>
 	  <meta charset="utf-8">
 
-	  <title>The HTML5 Herald</title>
+	  <title>IT 567 Assignment 3</title>
 	  <meta name="description" content="The HTML5 Herald">
 	  <meta name="author" content="SitePoint">
 
