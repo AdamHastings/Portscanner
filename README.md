@@ -3,4 +3,4 @@ A general-usage portscanner. Can perform various scans on mulitple hosts and por
 
 How to use:
 
-bash> python portscanner.py <target IPs> -p <ports> <special flags>
+bash> python portscanner.py \<target IPs\> -p <ports> <special flags>
