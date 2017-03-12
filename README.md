@@ -38,3 +38,16 @@ Use additional flags to specify special types of scans. Default (no flag) is TCP
 		192.168.207.0/24 -p 80,22  
 		192.168.207.122-127 -p 22,23,80,443 -sS  
 
+## Point Breakdown
+
+The following includes work accomplished and expected score
+
+1. Allow command-line switches to specify a host and present a simple response -- 40 points
+2. Allow more than one host to be scanned (range and subnet) -- 10 points
+3. Allow multiple ports to be specified
+4. Use of more than one protocol (ICMP and UDP) -- 15 points
+5. User experience results (HTML file) -- 10 points
+6. Other ideas or concepts (Stealthmode, Xmas scan) -- 20 points
+
+Total: 105 points
+
