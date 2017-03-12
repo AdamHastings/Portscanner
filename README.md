@@ -44,7 +44,7 @@ The following includes work accomplished and expected score
 
 1. Allow command-line switches to specify a host and present a simple response -- 40 points
 2. Allow more than one host to be scanned (range and subnet) -- 10 points
-3. Allow multiple ports to be specified
+3. Allow multiple ports to be specified -- 10 points
 4. Use of more than one protocol (ICMP and UDP) -- 15 points
 5. User experience results (HTML file) -- 10 points
 6. Other ideas or concepts (Stealthmode, Xmas scan) -- 20 points
